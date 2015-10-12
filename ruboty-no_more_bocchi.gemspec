@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["rike422@gmail.com"]
   spec.summary       = %q{very simple grouping tool}
   spec.description   = %q{very simple grouping tool}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/rike422/ruboty-no_more_bocchi"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
